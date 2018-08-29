@@ -1,4 +1,4 @@
-class CIS2323_Week01_Homework1 {
+public class CIS2323_Week01_Homework1 {
 	//array of as many strings as need - method
 	public static void main (String [] args) {
 		//easy way to print in java
